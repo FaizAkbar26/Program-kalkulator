@@ -28,11 +28,7 @@ void Kali(){
     float a, b;
     float hasil;
     system("CLS");
-    cout << "Bilangan Pertama : "; cin >> a;
-    cout << "Bilangan Kedua   : "; cin >> b;
-    hasil = a*b;
-    cout << "\nHasil "<<a<<" x "<<b<<" adalah"<<endl;
-	cout << "= "<<hasil;
+    cout
 }
  
 void Bagi(){
